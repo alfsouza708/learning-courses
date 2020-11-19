@@ -27,7 +27,7 @@ article img {
 nav {
   background: url(../img/scallop.png) repeat-x;
 }
-nav ul {
+nav ul.full-width {
   list-style-type: none;
   background-color: #e6bf98; 
   padding: .75em;
